@@ -18,5 +18,4 @@ It performs basic arithmetic operations with a clean and user-friendly interface
 * JavaScript
 
 ## Live Demo
-
-[View Calculator Live]([YOUR-LIVE-LINK-HERE](https://umeaimansalman.github.io/calculator/))
+https://umeaimansalman.github.io/calculator/
