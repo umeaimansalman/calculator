@@ -11,7 +11,7 @@ It performs basic arithmetic operations with a clean and user-friendly interface
 * Responsive design
 * Simple and clean UI
 
-## Technologies Used
+## Built With
 
 * HTML
 * CSS
