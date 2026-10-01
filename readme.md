@@ -19,4 +19,4 @@ It performs basic arithmetic operations with a clean and user-friendly interface
 
 ## Live Demo
 
-[View Calculator Live](YOUR-LIVE-LINK-HERE)
+[View Calculator Live]([YOUR-LIVE-LINK-HERE](https://umeaimansalman.github.io/calculator/))
